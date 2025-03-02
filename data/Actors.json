@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Damage1","classId":0,"equips":[2,0,0,3,0],"faceIndex":6,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":1,"name":"Максим","nickname":"Лейбл","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Characters","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":1,"name":"Лекси","nickname":"Lexi","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"Characters","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":1,"name":"Томирс","nickname":"Лейтенант Томорлус","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"Characters","classId":0,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":1,"name":"Максутка","nickname":"They/them energy","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"Characters","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":11,"name":"Вика","nickname":"Баба гуфа","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":5,"characterName":"Characters","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":1,"name":"Артемида","nickname":"Геннадий Горин","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":6,"characterName":"Characters","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":1,"name":"Зина","nickname":"Потрошительница из Экибастуза","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":7,"characterName":"Characters","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":1,"name":"Леда","nickname":"Перец","note":"","profile":""}
+]
